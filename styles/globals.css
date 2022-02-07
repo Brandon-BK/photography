@@ -14,3 +14,8 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.burger:hover{
+   background-color: gray;
+   color: white;
+}
