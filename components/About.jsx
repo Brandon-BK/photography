@@ -2,7 +2,7 @@ const About = () => {
   return (
     <div
       style={{
-        padding: "32px 0px",
+        padding: "32px 0px 0px 0px",
         color: "#757575",
       }}
     >
