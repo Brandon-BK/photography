@@ -7,6 +7,7 @@ import Portfolio from '../components/Portfolio';
 import Menu from '../components/Menu';
 
 import Reputation from '../components/Reputation-section/Reputation';
+import Contact from '../components/Contact';
 
 
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
       <About />
 
       <Reputation />
+      <Contact />
 
     </Box>
   )
