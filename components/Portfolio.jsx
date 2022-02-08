@@ -8,19 +8,16 @@ const Portfolio = () => {
         My Portfolio
       </Typography>
 
-      <div
-        style={{
-          borderBottom: "1px solid lightgrey",
-          width: "100%",
-          marginTop: 20,
-        }}
-      ></div>
+      <hr
+        style={{ border: "0", borderTop: "1px solid #eee", margin: "20px 0" }}
+      />
 
       <Box
         style={{
           width: "100%",
           display: "flex",
           justifyContent: "space-between",
+          marginTop: 20,
         }}
       >
         <Box
