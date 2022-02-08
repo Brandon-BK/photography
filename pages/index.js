@@ -8,6 +8,7 @@ import Reputation from '../components/Reputation-section/Reputation';
 import Contact from '../components/Contact';
 import Form from '../components/Form';
 import Price from '../components/my-price/Price';
+import Map from '../components/Map';
 
 
 export default function Home() {
@@ -23,6 +24,7 @@ export default function Home() {
       <Reputation />
       <Price />
       <Contact />
+      <Map />
       <Form />
 
     </Box>
