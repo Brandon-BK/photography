@@ -9,6 +9,7 @@ import Contact from '../components/Contact';
 import Form from '../components/Form';
 import Price from '../components/my-price/Price';
 import Map from '../components/Map';
+import Footer from '../components/Footer';
 
 
 export default function Home() {
@@ -26,7 +27,7 @@ export default function Home() {
       <Contact />
       <Map />
       <Form />
-
+      <Footer />
     </Box>
   )
 }
