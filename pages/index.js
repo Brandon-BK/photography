@@ -4,10 +4,10 @@ import Banner from '../components/Banner';
 import Portfolio from '../components/Portfolio';
 import Menu from '../components/Menu';
 import Skills from '../components/Skills';
-import Menu from '../components/Menu';
 import Reputation from '../components/Reputation-section/Reputation';
 import Contact from '../components/Contact';
 import Form from '../components/Form';
+import Price from '../components/my-price/Price';
 
 
 export default function Home() {
@@ -21,6 +21,7 @@ export default function Home() {
       <Menu />
       <About />
       <Reputation />
+      <Price />
       <Contact />
       <Form />
 
