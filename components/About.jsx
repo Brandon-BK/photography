@@ -6,7 +6,7 @@ const About = () => {
         color: "#757575",
       }}
     >
-      <h1 style={{ fontWeight: "400" }}>About</h1>
+     
       <hr
         style={{ border: "0", borderTop: "1px solid #eee", margin: "20px 0" }}
       />
