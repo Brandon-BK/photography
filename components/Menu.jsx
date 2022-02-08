@@ -1,6 +1,6 @@
 const Menu = () => {
   return (
-    <div className="burger" style={{padding:"8px 16px",marginRight:"12px", position:"fixed", zIndex:"1", top:"0", right:"0"}}>
+    <div className="burger" style={{padding:"8px 16px",marginRight:"12px", position:"fixed", zIndex:"1", top:"0", right:"0", background:"white"}}>
         <p style={{fontWeight:"34px"}}>
       <svg
         xmlns="http://www.w3.org/2000/svg"
